@@ -26,3 +26,10 @@ h1 {
   margin: 0;
   font-weight: 600;
 }
+
+.dashboard-section {
+  background-color: #fff;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 10px;
+}
