@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 coverage
+dashboard_project_structure.md
 
 # Editor directories and files
 .vscode/*
