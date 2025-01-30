@@ -1,7 +1,12 @@
-import Section from "../../components/Section/Section";
+import Card from "../../components/Card/Card";
 
 const Financials: React.FC = () => {
-  return <Section sectionTitle={"Financials"} />;
+  return (
+    <section className="dashboard-section">
+      <h2>Financials</h2>
+      <Card title={"Total Revenue"} />
+    </section>
+  );
 };
 
 export default Financials;
